@@ -1,0 +1,10 @@
+**/.ipynb_checkpoints/*
+*.csv
+*.tsv
+*.xls
+*.txt
+*.dot
+*.tif
+4장/human_activity/
+8장/OpinosisDataset1.0/
+
